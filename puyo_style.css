@@ -3,6 +3,7 @@
 body {
   background: linear-gradient(0deg, rgba(3,4,49,1) 17%, rgba(8,10,96,1) 86%);
   background-repeat: no-repeat;
+  background-size: cover;
   color: white;
   font-family: "MikadoMedium";
   padding: 30px;
