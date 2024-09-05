@@ -9,6 +9,7 @@ body {
   color: black;
   font-family: Verdana;
   padding: 30px;
+  font-family: url(/fonts/MikadoMedium.otf);
 }
 
 div {
