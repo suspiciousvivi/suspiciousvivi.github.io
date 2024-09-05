@@ -60,6 +60,6 @@ img {
 
 /* fonts */
 @font-face {
-  font-family: 'MikadoMedium';
+  font-family: "MikadoMedium";
   src: url(/fonts/MikadoMedium.otf);
 }
