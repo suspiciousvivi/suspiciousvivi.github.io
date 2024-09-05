@@ -1,12 +1,6 @@
 /* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
    HTML content. To learn how to do something, just try searching Google for questions like
    "how to change link color." */
-
-   @media screen {
-    body {
-    width: 90%;
-   }
-  }
 body {
   background-image: url(/images/site_background.png);
   background-repeat: no-repeat;
@@ -68,3 +62,9 @@ img {
   font-family: "MikadoMedium";
   src: url(/fonts/MikadoMedium.otf);
 }
+
+@media (max-width: 500px) {
+  body {
+    width: 50%;
+  }
+ }
