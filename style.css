@@ -2,6 +2,11 @@
    HTML content. To learn how to do something, just try searching Google for questions like
    "how to change link color." */
 
+   @media screen {
+    body {
+    width: 90%;
+   }
+  }
 body {
   background-image: url(/images/site_background.png);
   background-repeat: no-repeat;
